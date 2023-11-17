@@ -1,0 +1,13 @@
+#resultDiv {
+     display: flex;
+     flex-wrap: wrap;
+     gap: 3rem;
+}
+
+.card {
+    width: 15rem;
+}
+
+body{
+    background-color: azure;
+}
